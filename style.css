@@ -1,0 +1,31 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.main{
+    opacity: 0.80;
+    background-image: url(./image/image-7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+.cnta{
+    position: relative;
+    top: 40%;
+}
+.ptext{
+    position: relative;
+    left: 10%;
+    margin: 10px 20px;
+}
+.ptext-2{
+    float: right;
+    position: relative;
+    
+
+}
+.font{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
